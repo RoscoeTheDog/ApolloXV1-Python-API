@@ -8,7 +8,7 @@ Example usage:
     import apolloxv1
     import logging
 
-    logger = logging.logger('root_logger')
+	logger = logging.getLogger('root_logger')
 
     params = {
     	'api_key': 'api_key_val',
