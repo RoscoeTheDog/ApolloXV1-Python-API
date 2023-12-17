@@ -1,6 +1,8 @@
 # ApolloX V1 Python API
 
-Currently there is no interface for withdrawal / depositing from a hotstorage wallet. I may use web3 to wrap this later. V1 is great for strategies that require more frequent purchase orders to make an aggregated position such as in a DCA strategy.
+APX V1 is great for strategies which require more frequent purchase orders for an aggregate position such as in a DCA strategy.
+
+Currently there is no interface for withdrawal / depositing from a hotstorage wallet. I may use web3 to implement this later. Users can deposit money on the front end of the platforms website.
 
 
 Example usage:
