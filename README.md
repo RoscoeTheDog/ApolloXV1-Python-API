@@ -6,7 +6,6 @@ APX V1 is a great decentralized solution for trading strategies that require mor
 
 Currently there is no wrapper for depositing / withdrawing to and from a vault via hotstorage wallet. I may use web3 to implement this later. Users can deposit money on the front end of the platforms website for now.
 
-
 Example usage:
 ```python
     import apolloxv1
@@ -42,5 +41,5 @@ Example usage:
     	logger.info('order status "filled"')
 ```
 
-
-
+Like my work? Then buy me a drink! ☕🍺 <br>
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=9TUKFAZRVLH4W)****
