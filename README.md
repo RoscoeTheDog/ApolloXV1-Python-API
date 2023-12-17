@@ -5,7 +5,7 @@ Currently there is no interface for withdrawal / depositing from a hotstorage wa
 
 Example usage:
 ```python
-	import apolloxv1
+    import apolloxv1
     import logging
 
 	logger = logging.logger('root_logger')
