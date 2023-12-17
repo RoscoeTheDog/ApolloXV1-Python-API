@@ -1,3 +1,3 @@
 # ApolloXV1 Python API
- A python wrapper for ApolloXV1 Defi Exchange
+ A python API wrapper for the ApolloXV2 defi derivatives exchange
  
